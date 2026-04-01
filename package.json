@@ -1,4 +1,4 @@
-{
+grep '"dev"' package.json{
   "name": "nautia-crm",
   "version": "0.1.0",
   "private": true,
